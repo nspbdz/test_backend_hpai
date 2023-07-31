@@ -14,6 +14,10 @@
 
 unit test
 -untuk unit test : di command : npm test
+-untuk test delete pastikan id dari user yang di delete ada di database
+-unuk test add pastikan email yang di input belum ada di database
+-untuk test yang memerlukan login pastikan user id dan role nya ada di database
+-unuk test login pastikan email dan password benar dan user ada di database
 
 *note
 -DFD dan ERD ada di dalam folder documentation
